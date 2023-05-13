@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit
-- 👀 I’m interested in competitive programming.
+- 👀 I’m interested in competitive programming and Web Devlopment.
 - 🌱 I’m currently learning DSA in C++ language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on email id : rohitg9421@gmail.com

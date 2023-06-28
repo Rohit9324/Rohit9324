@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rohit
-- 👀 I’m interested in competitive programming and Web Devlopment.
-- 🌱 I’m currently learning DSA in C++ language.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello , Myself Rohit Gaikwad , 3rd Yr UG Student of IIT Kharagpur.
+- 👀 I’m interested in Competitive programming in C++ Language and Web Devlopment.
+- 🌱 I’m currently learning DSA in C++ language and exploring React.js
+- 💞️ I’m looking to work as a front-end developer
 - 📫 You can reach me on email id : rohitg9421@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hello , Myself Rohit Gaikwad , 3rd Yr UG Student of IIT Kharagpur.
+- 👋 Hello , Myself Rohit Gaikwad , 4th Yr UG Student of IIT Kharagpur.
 - 👀 I’m interested in Competitive programming in C++ Language and Web Devlopment.
 - 🌱 I’m currently learning DSA in C++ language and exploring React.js
 - 💞️ I’m looking to work as a front-end developer
